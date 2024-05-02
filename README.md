@@ -1,4 +1,8 @@
 # CS-510-Email-Organizer
+* Automatically creates labels for new and unread emails in the Gmail inbox, leveraging Google Apps Script to handle the required user authentication and server permissions.
+* While developments on Gmail require user authentication and server permissions, this is a personal project that only requires authentication for my own Gmail account, which can be achieved through Google Apps Script running on Google's servers.
+* Currently, I have successfully implemented the ability to automatically create labels for my emails through an open-source script that users can download and run on Apps Script to ensure authentication for their respective accounts.
+* Leveraged Large Language Models such as Gemini AI to read and modify my existing code, enabling users to easily add their own customizations for label creation based on their specific needs and requests.
 
 # How to run my project 
 * Go to my github link and download the Email.py file
