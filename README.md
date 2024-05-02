@@ -10,7 +10,7 @@
 1. Click on ‘Start Scripting’ on Apps script
 1. Click on “New Project”
 1. Now go back to my Email.py file and open it on VS code
-  1.  If you are using my code for the first time, please directly run the Email.py file and add your labels to it, else, please update the prompt guideline in Email.py file with the most current script from your Apps Script to successfully add labels to the email.    
+  1. If you are using my code for the first time, please directly run the Email.py file and add your labels to it, else, please update the prompt guideline in Email.py file with the most current script from your Apps Script to successfully add labels to the email.    
 1. Now replace the Gemini API key with your generated API key 
 1. Run the python file using command: ``` $ python3 Email.py   ```
 1. Enter the input requests in the command line and wait for the updated code to be generated
