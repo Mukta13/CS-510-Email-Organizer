@@ -5,7 +5,7 @@
 * Leveraged Large Language Models such as Gemini AI to read and modify my existing code, enabling users to easily add their own customizations for label creation based on their specific needs and requests.
 
 # How to run my project 
-* Go to my github link and download the Email.py file
+* Download the Email.py file
 * Now, login to your personal google account on chrome and open Apps Script (do not use business account for now as that would need additional permissions from the admin and google to run the script on gmail)
 * Click on ‘Start Scripting’ on Apps script
 * Click on “New Project”
