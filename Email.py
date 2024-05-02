@@ -27,7 +27,7 @@ def generate_prompt(prompt_param):
     print('-------------------------------------------------------------------------')
     print(" ")
 
-    genai.configure(api_key='AIzaSyAc85igu8tijFrtNRPgfhkCu6AQEzGbhqw')
+    genai.configure(api_key='YOUR_API_KEY_HERE') #replace with your API key here
 
     #Update the code with your recent App Scripts code to update the labels - dynamic updates implementation is a futre work
 
